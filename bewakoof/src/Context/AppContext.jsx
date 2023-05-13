@@ -155,7 +155,7 @@ const AllProductsData = {
       id:1,
       Display_image : "https://images.bewakoof.com/t1080/snazzy-green-half-sleeve-t-shirt-for-men-s-436115-1655836690-1.jpg",
       hover_Image: "https://images.bewakoof.com/t1080/snazzy-green-half-sleeve-t-shirt-for-men-s-436115-1655836695-2.jpg",
-      Title: "suFi's Blue T-shirt",
+      Title: " Blue T-shirt",
       price:699,
       strikeprice:1299,
       amount:1,
@@ -204,7 +204,7 @@ const AllProductsData = {
       Display_image : "https://images.bewakoof.com/t1080/snitch-men-s-white-abstract-printed-slim-fit-shirt-505598-1656179088-1.jpg",
       hover_Image: "https://images.bewakoof.com/t1080/snitch-men-s-white-abstract-printed-slim-fit-shirt-505598-1656179098-3.jpg",
       price:499,
-      Title: "suFi Full Sleeve T-shirt",
+      Title: " Full Sleeve T-shirt",
       strikeprice:1299,
       amount:1,
       moreImage: [
@@ -299,7 +299,7 @@ const AllProductsData = {
       Display_image : "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-1092-1659608118-1.jpg",
       hover_Image: "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-1092-1659608134-4.jpg",
       price:499,
-      Title: "suFi Full Sleeve T-shirt",
+      Title: " Full Sleeve T-shirt",
       strikeprice:1299,
       amount:1,
       moreImage: [
@@ -550,7 +550,7 @@ const CartDataToMatch = [
     id:1,
     Display_image : "https://images.bewakoof.com/t1080/snazzy-green-half-sleeve-t-shirt-for-men-s-436115-1655836690-1.jpg",
     hover_Image: "https://images.bewakoof.com/t1080/snazzy-green-half-sleeve-t-shirt-for-men-s-436115-1655836695-2.jpg",
-    Title: "suFi's Blue T-shirt",
+    Title: "'s Blue T-shirt",
     price:699,
     strikeprice:1299,
     amount:1,
@@ -599,7 +599,7 @@ const CartDataToMatch = [
     Display_image : "https://images.bewakoof.com/t1080/snitch-men-s-white-abstract-printed-slim-fit-shirt-505598-1656179088-1.jpg",
     hover_Image: "https://images.bewakoof.com/t1080/snitch-men-s-white-abstract-printed-slim-fit-shirt-505598-1656179098-3.jpg",
     price:499,
-    Title: "suFi Full Sleeve T-shirt",
+    Title: " Full Sleeve T-shirt",
     strikeprice:1299,
     amount:1,
     moreImage: [
@@ -694,7 +694,7 @@ const CartDataToMatch = [
     Display_image : "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-1092-1659608118-1.jpg",
     hover_Image: "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-1092-1659608134-4.jpg",
     price:499,
-    Title: "suFi Full Sleeve T-shirt",
+    Title: " Full Sleeve T-shirt",
     strikeprice:1299,
     amount:1,
     moreImage: [
