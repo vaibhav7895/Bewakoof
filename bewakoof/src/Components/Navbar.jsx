@@ -748,37 +748,7 @@ const Navbar = () => {
       </div>
       <hr className={styles.hrLine} />
 
-      <div id={styles.dataBar}>
-        <li >
-          <NavLink
-              style={({ isActive }) => (isActive ? activeStyle : defaultStyle)}
-            to="/"
-            
-          >
-            MEN
-          </NavLink>
-        </li>
-
-        <li>
-          <NavLink
-              style={({ isActive }) => (isActive ? activeStyle : defaultStyle)}
-            to="/landingPage/women"
-           
-          >
-            WOMEN
-          </NavLink>
-        </li>
-        <li>
-          {" "}
-          <NavLink
-              style={({ isActive }) => (isActive ? activeStyle : defaultStyle)}
-            to="/landingPage/accessories"
-           
-          >
-            ACCESSORIES
-          </NavLink>
-        </li>
-      </div>
+      
     </div>
   );
 };
