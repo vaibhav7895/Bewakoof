@@ -1,4 +1,4 @@
-# Lifestyles Stores clone 
+# Bewakoof.com clone 
 
 Deployed-Link- [https://outfitstore.vercel.app/](https://bewakoof-vaibhav7895.vercel.app/)
 
